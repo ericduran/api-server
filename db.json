@@ -8,7 +8,8 @@
   "goal": {
     "current": "Retirement",
     "balance": "300",
-    "tranferAmount": "5"
+    "tranferAmount": "5",
+    "targetDate": "10/16/2016"
   },
   "balance": { "current": "100" }
 }
