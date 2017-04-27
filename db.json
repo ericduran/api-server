@@ -5,6 +5,8 @@
   "comments": [
    { "id": 1, "body": "some comment", "postId": 1 }
   ],
+  "currentGoal": "Retirement",
+  "currentGoalBalanage": "300",
+  "tranferAmount": "5",
   "balance": { "current": "100" }
 }
-
