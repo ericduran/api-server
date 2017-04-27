@@ -1,6 +1,6 @@
 {
  "scripts": {
-   "start": "json-server --port=$PORT --watch db.json"
+   "start": "json-server --port=${PORT} --watch db.json"
  },
   "dependencies": {
     "json-server": "^0.10.0"
