@@ -7,9 +7,18 @@
   ],
   "goal": {
     "current": "Retirement",
-    "balance": "301",
+    "balance": "5117",
     "tranferAmount": "5",
-    "targetDate": "10/16/2016"
+    "targetAmount": "6000",
+    "targetDate": "04/28/2019"
   },
-  "balance": { "current": "100" }
+  "balance": {
+    "current": "4633"
+  },
+  "budget": {
+    "income": "8000",
+    "fixedCosts": "850",
+    "flexSpending": "1300",
+    "priorityBudget": "5"
+  }
 }
